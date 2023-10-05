@@ -1,4 +1,8 @@
  /* ! Spinner Start  */
+ a {
+     text-decoration: none;
+
+ }
 
  #spinner {
      opacity: 0;
@@ -185,11 +189,12 @@
  }
 
  .carousel-control-prev {
-     width: 90px;
+     border-radius: 10px !important;
+     width: 60px;
      height: 60px;
      position: absolute;
      top: 50%;
-     left: 0;
+     right: -10px;
      background: var(--bs-primary);
      border-radius: 0 50px 50px 0;
      opacity: 1;
@@ -201,11 +206,12 @@
  }
 
  .carousel-control-next {
-     width: 90px;
+     border-radius: 10px !important;
+     width: 60px;
      height: 60px;
      position: absolute;
      top: 50%;
-     right: 0;
+     right: -10px;
      background: var(--bs-primary);
      border-radius: 50px 0 0 50px;
      opacity: 1;
