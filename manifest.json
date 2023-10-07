@@ -1,6 +1,6 @@
 {
-  "name": " سایت شرکتی ...",
-  "short_name": " سایت شرکتی ",
+  "name": "موسسه اموزشی ارسطو",
+  "short_name": "موسسه اموزشی ارسطو",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#fff",
@@ -8,54 +8,52 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "images/alireza72.png",
+      "src": "./img/logo72.png",
       "type": "image/png",
       "sizes": "72x72",
       "purpose": "any maskable"
     },
     {
-      "src": "images/alireza96.png",
+      "src": "./img/logo96.png",
       "type": "image/png",
       "sizes": "96x96",
       "purpose": "any maskable"
     },
     {
-      "src": "images/alireza126.png",
+      "src": "./img/logo126.png",
       "type": "image/png",
       "sizes": "128x128",
       "purpose": "any maskable"
     },
     {
-      "src": "images/alireza144.png",
+      "src": "./img/logo144.png",
       "type": "image/png",
       "sizes": "144x144",
       "purpose": "any maskable"
     },
     {
-      "src": "images/alireza152.png",
+      "src": "./img/logo156.png",
       "type": "image/png",
       "sizes": "152x152",
       "purpose": "any maskable"
     },
     {
-      "src": "images/alireza192.png",
+      "src": "./img/logo192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any maskable"
     },
     {
-      "src": "images/alireza384.png",
+      "src": "./img/logo384.png",
       "type": "image/png",
       "sizes": "384x384",
       "purpose": "any maskable"
     },
     {
-      "src": "images/alireza512.png",
+      "src": "./img/logo512.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
     }
   ]
 }
-
-
